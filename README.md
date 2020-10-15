@@ -24,3 +24,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+<html>
+<head>
+<title> MMED-1054-HW-1</title>
+</head>
+<body>
+<h1>Hi! My name is Emily Barnes and I live just outside of London, ON.</h1>
+<h2>I have 2 younger brothers, a cat, and a dog. I work at a brewery in London!</h2>
+<h3>I play piano, and have recently started making natural soy wax candles using essential oils!</h3>
+<h4>Last year I attended Laurier University, however I decided to make the switch to Fanshawe and so far I am loving it!</h4>
