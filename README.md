@@ -35,9 +35,6 @@ SOFTWARE.
 <h4>I play piano, and have recently started making natural soy wax candles using essential oils!</h4>
 <h4>Last year I attended Laurier University, however I decided to make the switch to Fanshawe and so far I am loving it!</h4>
 
-![](images/fullsizeoutput_15.jpeg)
-
-<h4>This is me and my dog, Cuda</h4>
 
 
 [Me Playing Piano When I Was Younger](https://www.youtube.com/watch?v=lLPQ7Z8wrtM)
