@@ -34,3 +34,7 @@ SOFTWARE.
 <h4>I have 2 younger brothers, a cat, and a dog. I work at a brewery in London!</h4>
 <h4>I play piano, and have recently started making natural soy wax candles using essential oils!</h4>
 <h4>Last year I attended Laurier University, however I decided to make the switch to Fanshawe and so far I am loving it!</h4>
+
+![](images/fullsizeoutput_15.jpeg)
+
+<h4>This is me and my dog, Cuda</h4>
