@@ -38,3 +38,5 @@ SOFTWARE.
 ![](images/fullsizeoutput_15.jpeg)
 
 <h4>This is me and my dog, Cuda</h4>
+
+<h4>I'm very excited to be in the Interactive Media Design Program. Some things are trickier than others but we just started so I know it may take some time. I love the creative aspect of it, the coding might take me awhile to figure out. However, I love feedback and I'm wanting to learn, so I think it should be a good two years!</h4>
