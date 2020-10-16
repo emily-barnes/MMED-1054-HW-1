@@ -27,7 +27,7 @@ SOFTWARE.
 
 <html>
 <head>
-<title> MMED-1054-HW-1</title>
+<title>MMED-1054-HW-1</title>
 </head>
 <body>
 <h4>Hi! My name is Emily Barnes and I live just outside of London, ON.</h4>
@@ -35,7 +35,7 @@ SOFTWARE.
 <h4>I play piano, and have recently started making natural soy wax candles using essential oils!</h4>
 <h4>Last year I attended Laurier University, however I decided to make the switch to Fanshawe and so far I am loving it!</h4>
 
-![](images/fullsizeoutput_15.jpeg)
+![Photo](images/fullsizeoutput_15.jpeg)
 
 <h4>This is me and my dog, Cuda</h4>
 
