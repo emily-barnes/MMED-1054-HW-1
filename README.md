@@ -38,3 +38,6 @@ SOFTWARE.
 ![](images/fullsizeoutput_15.jpeg)
 
 <h4>This is me and my dog, Cuda</h4>
+
+
+[Me Playing Piano When I Was Younger](https://www.youtube.com/watch?v=lLPQ7Z8wrtM)
